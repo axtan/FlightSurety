@@ -1,6 +1,6 @@
 # FlightSurety
 
-FlightSurety is a sample application project for Udacity's Blockchain course.
+FlightSurety is an application project for Udacity's Blockchain course.
 
 ## Install
 
@@ -41,6 +41,8 @@ Deploy the contents of the ./dapp folder
 
 
 ## Migrations
+
+During the migration, I'm funding the first Airline, registering 5 flights for this airline and registering a second Airline, funding it and registering another 5 flights for the second airline.
 
 ```
 $ truffle migrate --reset
@@ -260,7 +262,9 @@ OK 9 0xf17f52151EbEF6C7334FAD080c5704D77216b732 ND1309 1631536862 10
 
 ```
 
-## Resources
+## Dapp
+
+Dapp permits check the operational status of the contract, buy insurances of 10 flights of 2 airlines, check the status of the flight requesting Oracles, check user balance and withdraw.
 
 
 ## Resources
