@@ -264,7 +264,7 @@ OK 9 0xf17f52151EbEF6C7334FAD080c5704D77216b732 ND1309 1631536862 10
 
 ## Dapp
 
-Dapp permits check the operational status of the contract, buy insurances of 10 flights of 2 airlines, check the status of the flight requesting Oracles, check user balance and withdraw.
+Dapp permits check the operational status of the contract, buy insurances of 10 flights of 2 airlines (each passenger can buy insurances of the same flight until reach 1 ether of inversion), check the status of the flight requesting Oracles, check user balance and withdraw.
 
 
 ## Resources
